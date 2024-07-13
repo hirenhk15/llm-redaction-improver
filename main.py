@@ -115,7 +115,7 @@ class LLMStreamlitUI:
             st.markdown("Re-write and your text in different styles.")
 
         with col2:
-            st.write("Contact Hiren K to build your AI Projects")
+            st.write("Contact Hiren Kelaiya to build your AI Projects")
 
         # Select the model provider
         st.markdown("## Which model provider you want to choose?")
